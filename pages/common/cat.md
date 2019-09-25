@@ -2,9 +2,14 @@
 
 > Print and concatenate files.
 
+- Create new file with cat (press `Ctrl+D` after desired text is inputed)
+
+`cat > {{file}}`    
+
 - Print the contents of a file to the standard output:
 
 `cat {{file}}`
+
 
 - Concatenate several files into the target file:
 
